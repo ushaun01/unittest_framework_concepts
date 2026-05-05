@@ -38,17 +38,27 @@ This is a learning-focused repository, not a real-world project.
 
 📂 Structure
 
-.
+
 ├── Package1/
+
 ├── Package2/
+
 ├── Test Suites/
+
 ├── Test Case 1 (Basic).py
+
 ├── Test Case 2.py
+
 ├── Test Case 3 (setup teardown).py
+
 ├── Test Case 4 (class level fixtures).py
+
 ├── Test Case 5 (module level fixtures).py
+
 ├── Test Case 6 (skipping tests).py
+
 ├── Test Case 7–11 (assertions)
+
 
  How to Run
 
